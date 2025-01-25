@@ -1,7 +1,7 @@
 h1 {
   color: #434455;
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 56px;
   line-height: 60px;
   letter-spacing: 2%;
@@ -10,7 +10,7 @@ h1 {
 h2 {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 36px;
   letter-spacing: 2%;
 }
