@@ -16,8 +16,8 @@ body {
 .logo-highlight {
   color: #2e2f42;
 }
-.address-normal{
-  font-style: normal
+.text-normal{
+  font-style: normal;
 }
 .menu-item{
   font-weight: medium;
