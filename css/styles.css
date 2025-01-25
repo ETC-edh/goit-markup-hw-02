@@ -10,16 +10,17 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 0.03em;
+  letter-spacing: 3%;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 .logo-highlight {
   color: #2e2f42;
 }
-.text-normal{
+.contact-item {
   font-style: normal;
 }
-.menu-item{
+.menu-item {
   font-weight: medium;
   font-size: 16px;
   line-height: 24px;
