@@ -1,3 +1,10 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #434455;
+  line-height: 24px;
+  background-color: #ffff;
+}
 .site-logo {
   font-family: "Raleway", serif;
   font-weight: 700;
@@ -13,10 +20,10 @@
   font-style: normal
 }
 .menu-item{
-  font-weight: 500;
+  font-weight: medium;
   font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  line-height: 24px;
+  letter-spacing: 2%;
   color: #2e2f42;
 }
 h1 {
@@ -41,13 +48,7 @@ h3 {
   font-size: 20px;
   letter-spacing: 2%;
 }
-body {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  color: #434455;
-  line-height: 24px;
-  background-color: #ffff;
-}
+
 .btn {
   font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
