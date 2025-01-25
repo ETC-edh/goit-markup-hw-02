@@ -49,9 +49,6 @@ a:hover, a:focus {
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  text-decoration: none;
 }
 /* Menü */
 .menu {
