@@ -1,11 +1,13 @@
 .site-logo {
-  font-family: "Raleway", serif;
+  font-family: 'Raleway', serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 21px;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
+}
+.logo-highlight{
+  color: #2e2f42
 }
 h1 {
   color: #434455;
