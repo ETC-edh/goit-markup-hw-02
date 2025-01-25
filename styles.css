@@ -1,24 +1,47 @@
-h1{
-    color:#FFFFFF;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 700;
-            font-size: 56px;
-            line-height: 60px;
-            letter-spacing: 2%;
-            box-align: center; 
+h1 {
+  color: #a43030;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
 }
-h2{
-            color:#2E2F42;
-            font-family: 'Roboto', sans-serif;
-            font-weight: bold;
-            font-size: 36px;
-            letter-spacing: 2%;
-        }
- h3{
-    color:#2E2F42;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 500;
-            font-size: 20px;
-            line-height: 24px;
-            letter-spacing: 2%;
- }
+h2 {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+h3 {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+p{
+  font-family: "Roboto", sans-serif;
+  font-weight: regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #434455;
+}
+
+small {
+font-family: "Roboto", sans-serif;
+  font-weight: regular;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 4%;
+  color: #434455;
+}
+medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
