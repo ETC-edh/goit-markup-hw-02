@@ -7,9 +7,13 @@
   color: #4d5ae5;
   text-transform: uppercase;
 }
-.contact-item {
+.logo-highlight {
+  text-color: #2e2f42;
+}
+.address-tel{
   font-style: normal;
 }
+
 .menu-item {
   font-weight: 500;
   font-size: 16px;
