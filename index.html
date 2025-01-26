@@ -100,8 +100,25 @@
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
+.paragraph-one{
 
+}
+.team-section{
+  background-color: #f4f4fd;
+}
+.header-two{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team-card{
+  background-color: #FFFFFF;
+}
 </style>
 </head>
   <body>
@@ -136,27 +153,27 @@
         <ul>
           <li>
             <h3 class="header-three">Strategy</h3>
-            <p>
+            <p class="paragraph-one">
               Our goal is to identify the business problem to walk away with the
               perfect and creative solution.
             </p>
           </li>
           <li>
-            <h3>Punctuality</h3>
+            <h3 class="header-three">Punctuality</h3>
             <p>
               Bring the key message to the brand's audience for the best price
               within the shortest possible time.
             </p>
           </li>
           <li>
-            <h3>Diligence</h3>
+            <h3 class="header-three">Diligence</h3>
             <p>
               Research and confirm brands that present the strongest digital
               growth opportunities and minimize risk.
             </p>
           </li>
           <li>
-            <h3>Technologies</h3>
+            <h3 class="header-three">Technologies</h3>
             <p>
               Design practice focused on digital experiences. We bring forth a
               deep passion for problem-solving.
@@ -166,41 +183,43 @@
       </section>
       <!--End Of Section -2 -->
       <!--Section -3 -->
-      <h2>Our Team</h2>
+      <section class="team-section"> 
+      <h2 class="header-two">Our Team</h2>
       <ul>
-        <li>
+        <li class="team-card">
           <img
             src="./images/img1.jpg"
             alt="Portrait of Mark Guerrero"
             width="264"
           />
-          <h3>Mark Guerrero</h3>
+          <h3 class="header-three">Mark Guerrero</h3>
           <p>Product Designer</p>
         </li>
-        <li>
+        <li class="team-card">
           <img src="./images/img2.jpg" alt="Portrait of Tom Ford" width="264" />
-          <h3>Tom Ford</h3>
+          <h3 class="header-three">Tom Ford</h3>
           <p>Frontend Developer</p>
         </li>
-        <li>
+        <li class="team-card">
           <img
             src="./images/img3.jpg"
             alt="Portrait of Camila Garcia"
             width="264"
           />
-          <h3>Camila Garcia</h3>
+          <h3 class="header-three">Camila Garcia</h3>
           <p>Marketing</p>
         </li>
-        <li>
+        <li class="team-card">
           <img
             src="./images/img4.jpg"
             alt="Portrait of Daniel Wilson"
             width="264"
           />
-          <h3>Daniel Wilson</h3>
+          <h3 class="header-three">Daniel Wilson</h3>
           <p>UI Designer</p>
         </li>
       </ul>
+      </section>
       <!--End Of Section -3 -->
       <!--Section -4 -->
       <h2>Our Portfolio</h2>
