@@ -8,18 +8,21 @@
   text-transform: uppercase;
 }
 .logo-highlight {
-  text-color: #2e2f42;
+  color: #2e2f42;
 }
 .address-tel {
   font-style: normal;
 }
-
 .menu-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.menu-item:hover,
+.menu-item:focus {
+  color: #404bbf;
 }
 h1 {
   color: #434455;
