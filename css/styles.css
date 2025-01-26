@@ -1,47 +1,8 @@
-.site-logo {
-  font-family: "Raleway", serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 21px;
-  letter-spacing: 3%;
-  color: #4d5ae5;
-  text-transform: uppercase;
-}
-.logo-highlight {
-  color: #2e2f42;
-}
 
-.menu-item {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.menu-item:hover,
-.menu-item:focus {
-  color: #404bbf;
-}
 
-/* Address Section */
-.contact-info {
-  font-style: normal;
-}
-.contact-list {
 
-}
-.contact-item {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
-.contact-item:hover,
-.contact-item:focus {
-  color: #404bbf;
-}
+
 
 h1 {
   color: #434455;
@@ -65,7 +26,7 @@ h3 {
   font-size: 20px;
   letter-spacing: 2%;
   letter-spacing: 0.02em;
-  
+
 }
 
 .btn {
